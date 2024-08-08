@@ -10,5 +10,5 @@
 - [ ] AT code review
 - [ ] New/Updated test cases are traced to the story
 - [ ] Regression tests must pass
-- [ ] E2E branch merged
+- [ ] E2E branch was merged
 - [ ] Code has been merged to the main branch and deployed if possible+ original branch deleted automatically 
