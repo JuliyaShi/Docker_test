@@ -1,0 +1,14 @@
+### Template
+- [ ] Test
+- [ ] Code review is done
+- [ ] Linting (if part of the pipeline - executed automatically)
+- [ ] Unit tests -Unit/Component Code coverage > 80 %
+- [ ] Functional Walkthrough
+- [ ] Story must meet Acceptance Criteria
+- [ ] If technical debt has been introduced, Stories have been created for it
+- [ ] New/updated automated test cases pass
+- [ ] AT code review
+- [ ] New/Updated test cases are traced to the story
+- [ ] Regression tests must pass
+- [ ] E2E branch merged
+- [ ] Code has been merged to the main branch and deployed if possible+ original branch deleted automatically 
